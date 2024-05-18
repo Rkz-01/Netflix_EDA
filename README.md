@@ -1,4 +1,4 @@
-# Netflix_EDA
+# Netflix Originals Films & IMDB Score Analysis
 
 Identifying the characteristics of successful Netflix original movies
 based on different attributes such as genre, runtime, IMDB score, and
